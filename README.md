@@ -4,7 +4,7 @@
 ## Steps / Order to Run Code
 
 Download zipped folder **2D_ATTN_DFI_WithDisplay.zip** — from zenodo repository https://doi.org/10.5281/zenodo.17495015
-contains the mouse attenuation (ATTN) and dark-field (DFI) projection data, along with MATLAB code for:
+This contains the mouse attenuation (ATTN) and dark-field (DFI) projection data, along with MATLAB code for:
 - Lung segmentation
 - Synthetic tumor insertion
 - Patch generation
